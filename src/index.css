@@ -10,4 +10,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  color: #32355c;
+}
+
+.select {
+  color: #32355c !important;
+}
+
+MenuItem {
+  color: #32355c !important;
+}
+
+.canvas {
+  padding-bottom: 15px !important;
 }
